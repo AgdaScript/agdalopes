@@ -248,23 +248,23 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "ola";
+        content: "Agda Lopes";
     }
     21%,
     40%{
-        content: "Web Designer";
+        content: "a Computer Engineer";
     }
     41%,
     60%{
-        content: "UI / UX Designer";
+        content: "a AI Wizard on Traing";
     }
     61%,
     80%{
-        content: "Web Developer";
+        content: "Problem Solver";
     }
     81%,
     100%{
-        content: "Software Tester";
+        content: "From Cape Verde";
     }
 }
 
