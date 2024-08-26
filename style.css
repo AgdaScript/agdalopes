@@ -427,10 +427,10 @@ span{
 
 .service-box{
     background-color: var(--main-color);
-    height: 300px;
+    height: 500px;
     border-radius: 3rem;
     border: 5px solid transparent;
-    cursor: pointer;
+    /* cursor: pointer; */
     transition: 0.4s ease-in-out;
 }
 
@@ -464,6 +464,7 @@ span{
     line-height: 1.7;
     margin: auto;
 }
+
 
 
 
@@ -757,6 +758,8 @@ span{
     .services h2{
         margin-bottom: 3rem;
     }
+
+    
 
     .services-container{
          grid-template-columns: repeat(1,1fr);
