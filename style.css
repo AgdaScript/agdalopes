@@ -782,12 +782,10 @@ span{
 
 
     width: 100%;
+    margin-bottom: 30px;
     /* padding: 50; */
     /* margin: 0; */
-    margin-bottom: 10px;
-    margin-bottom: 1px;
     /* padding-top: 10px; */
-    padding-bottom: 0px;
 }
 
 /* .tech-section h2 {
@@ -801,19 +799,22 @@ span{
     flex-wrap: wrap;
     justify-content: space-around;
     list-style: none;
-    padding: 0;
-    margin: 0;
+    /* padding: 0; */
+    /* margin: 0; */
 }
 
 .tech-list li {
-    flex: 0 1 calc(33.333% - 20px);
-    margin: 10px;
+    /* flex: 0 1 calc(33.333% - 20px); */
+    /* margin: 1px; */
     text-align: center;
     background-color: var(--bg-color);
     padding: 15px;
     border-radius: 8px;
     transition: transform 0.3s ease;
-    flex-basis: 22%;
+    /* flex-basis: 22%; */
+    scale: 200%;
+    color: var(--main-color);
+    margin-top: 150px;
 }
 
 .tech-list li:hover {
