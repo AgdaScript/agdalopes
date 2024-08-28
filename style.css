@@ -300,14 +300,14 @@ span{
     margin: 5rem 0;
 }
 
-.education{
+/* .education{
     padding: 100px 15px;
-    /* background: var(--second-bg-color); */
+    background: var(--second-bg-color);
 }
 
 .education h2{
     margin-bottom: 5rem;
-}
+} */
 
 .timeline-items{
     max-width: 1200px;
@@ -759,11 +759,18 @@ span{
         margin-bottom: 3rem;
     }
 
+    .services p{
+        font-size: 1.20rem;
+    }
     
 
     .services-container{
          grid-template-columns: repeat(1,1fr);
     }
+
+   
+
+
 }
 
 
